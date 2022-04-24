@@ -1,4 +1,4 @@
-# DBMS TERM PROJECT
+# SPM TERM PROJECT
 <p><b>Submitted By :- Sanjeeb Nath (18115069) Sakshi Bhandarkar (18115067) </b></p><br>
 
 1.	Create a database with a name of dowell university(space included).Import the MySQL file.
